@@ -9,7 +9,7 @@ import BannerPic from "../components/BannerPic/BannerPic";
 import BannerImg from "../assets/ai.avif";
 import Banner2 from "../assets/travel-cover2.jpg";
 import OrderPopup from "../components/OrderPopup/OrderPopup";
-import Chatbot from "../components/chatbot/chatbot";
+import Chatbot from "../components/chatbot/Chatbot";
 import Footer from "../components/Footer/Footer";
 
 
